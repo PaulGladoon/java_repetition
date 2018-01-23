@@ -1,3 +1,5 @@
+package qa.rep.barancev;
+
 public class MyFirstProgram {
 
     public static void main (String[] args) {
